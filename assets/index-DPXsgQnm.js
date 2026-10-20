@@ -94,8 +94,8 @@ Distribution: all personnel, all clearance levels. Retention: mandatory.
 1. SurVeillance coverage has been extended to all break rooms. Your
 comfort is being observed for your own safety.
 
-2. The cafeteria menu is unchanged; Hours of operation remain posted
-at the entrance. The pudding machine on level 3 is still broken.
+2. The cafeteria menu is unchanged; hours of operation remain posted
+at the entrance. The pudding macHine on level 3 is still broken.
 
 3. All staff surVeys are anonymous. Please include your full name,
 badge number and blood type so we can keep them that way.
@@ -103,8 +103,8 @@ badge number and blood type so we can keep them that way.
 4. a reminder that friendship between employees is mandatory.
 Friendship forms are available at the HR kiosk (form F-88).
 
-5. sTorage lockers are audited weekly. Items not on the approved
-item list will be confiscated and audited.
+5. Storage lockers are audited weekly. Items not on the approved
+item list will be confiscated and audiTed.
 
 6. not all hallways require walking. Where moving walkways are
 provided, standing is prohibited. Walking is also prohibited.
@@ -112,10 +112,10 @@ provided, standing is prohibited. Walking is also prohibited.
 7. lost property is located wherever you lost it. Retrieval
 requests are processed within 14 working months.
 
-8. haZard signage is color-coded for convenience. Purple means
+8. HaZard signage is color-coded for convenience. Purple means
 "do not touch". Purple also means "free sample". Use judgment.
 
-9. obJects in mirrors may be closer than they appear. Objects in
+9. ObJects in mirrors may be closer than they appear. Objects in
 sub-level corridors do not appear in mirrors. Do not investigate.
 
 10. level 4 access requires form D-12, which requires level 4
